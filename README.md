@@ -1,10 +1,6 @@
 <h1 align="center">Hallo 👋, I'm Ujjwal 👨‍💻</h1>
 <h3 align="center">A passionate full stack developer to be 💭</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal1206&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal1206" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👨‍💻Primary Coding language - **c,java**
 
 - 🌱 I’m currently learning **full stack development**
