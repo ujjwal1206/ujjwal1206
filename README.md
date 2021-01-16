@@ -3,9 +3,9 @@
 
 - 👨‍💻Primary Coding language - **c,java**
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ujjwal1206](https://github.com/ujjwal1206)
+- 👨‍💻 All of my projects are available at [https://github.com/ujjwal1206?tab=repositories](https://github.com/ujjwal1206?tab=repositories)
 
 - 📫 How to reach me **ujjwal1985.cse18@chitkara.edu.in**
 
