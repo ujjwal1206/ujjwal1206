@@ -22,3 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal1206&show_icons=true&locale=en" alt="ujjwal1206" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1206&" alt="ujjwal1206" /></p>
