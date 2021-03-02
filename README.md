@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, I'm Ujjwal 👨‍💻</h1>
-- 👨‍💻 **Primary Coding language - **java****
+- 🌱 **Full Stack Developer to be 💭**
 
 - 🌱 **Full Stack Developer to be 💭**
 
