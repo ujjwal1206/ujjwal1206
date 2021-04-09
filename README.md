@@ -9,7 +9,7 @@
 <h3 align="left">How to contact me📧📱</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujjwal-sharma-a32b51201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal-sharma-a32b51201" height="30" width="40" /></a>
-<a href = "mailto: ujjwal1985.cse18@chitkara.edu.in" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo-768x579.png" alt=" Ujjwal-Sharma" height="30" width="40" /></a>
+<a href = "mailto: ujjwal1985.cse18@chitkara.edu.in" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo-768x579.png" alt=" Ujjwal-Sharma" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
