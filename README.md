@@ -1,9 +1,7 @@
 <h1 align="center">Hallo 👋, I'm Ujjwal 👨‍💻</h1>
 
 - 👨‍💻 Primary Coding language - Java
-
 - 🌱 **Full Stack Developer to be 💭**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ujjwal1206?tab=repositories](https://github.com/ujjwal1206?tab=repositories)
 
 <h3 align="left">How to contact me📧📱</h3>
