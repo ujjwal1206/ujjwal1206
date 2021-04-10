@@ -1,6 +1,6 @@
 <h1>Hallo 👋, I'm Ujjwal 👨‍💻</h1>
 
-- 👨‍💻 Primary Coding language - Java,JavaScript
+- 👨‍💻 Primary Coding language - **Java,JavaScript**
 - 🌱 **Full Stack Developer to be 💭**
 - 👨‍💻 All of my projects are available at [https://github.com/ujjwal1206?tab=repositories](https://github.com/ujjwal1206?tab=repositories)
 
