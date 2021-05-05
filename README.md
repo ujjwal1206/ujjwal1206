@@ -2,7 +2,7 @@
 
 - 👨‍💻 Primary Coding language - **Java,JavaScript**
 - 🌱 **Full Stack Developer to be 💭**
-- 👨‍💻 All of my projects are available at [https://github.com/ujjwal1206?tab=repositories](https://github.com/ujjwal1206?tab=repositories)
+- 👨‍💻 **Passionate about learning new technology 💻**
 
 <h3 align="left">How to contact me📧📱</h3>
 <p align="left">
