@@ -1,4 +1,4 @@
-<h1>Hello 😀, I'm Ujjwal 👨‍💻</h1>
+<h1>Hello 👋, I'm Ujjwal 👨‍💻</h1>
 
 - 👨‍💻 Primary Coding language - **Java,JavaScript**
 - 🌱 **Full Stack Developer to be 💭**
